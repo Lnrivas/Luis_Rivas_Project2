@@ -1,0 +1,34 @@
+[
+    {
+        "id": "aa32jj887hhg55",
+        "name": "Iron Man",
+        "description": "Genius billionaire playboy philanthropist"
+    },
+    {
+        "id": "bb32jj887hhg77",
+        "name": "Black Widow",
+        "description": "Spy/assassin"
+    },
+    {
+        "id": "cc32jj887hhg66",
+        "name": "Thor",
+        "description": "The god of thunder"
+    },
+    {
+        "id": "dd32jj887hhg88",
+        "name": "Hulk",
+        "description": "Green monster"
+    },
+    {
+        "id": "ee32jj887hhg99",
+        "name": "Captain America",
+        "description": "Super soldier"
+    },
+    {
+        "id": "ee32jj887hhg98",
+        "name": "Hawkeye",
+        "description": "Master archer and marksman"
+    }
+    
+]
+
